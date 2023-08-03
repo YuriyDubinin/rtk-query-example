@@ -1,0 +1,17 @@
+.app {
+  width: 100vw;
+  height: 100vh;
+}
+
+.app__label {
+    padding: 0 25px;
+}
+
+.app__select {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.app__input {
+  margin-left: 25px;
+}
